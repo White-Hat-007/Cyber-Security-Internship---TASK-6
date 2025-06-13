@@ -142,3 +142,13 @@
 ---
 
 > 📌 _Security starts with awareness — your password is your digital identity's first line of defense._
+
+---
+
+## 👨‍💻 Author
+
+**Darsh Chatrani**  
+🔗 [LinkedIn](https://linkedin.com/in/darshchatrani)  
+📞 Contact: +91 97899 57123
+
+---
